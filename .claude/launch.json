@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "rocketree",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "rocketree-next", "run", "dev"],
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}
